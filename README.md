@@ -104,8 +104,5 @@ The chatbot follows a modular **RAG (Retrieval-Augmented Generation)** architect
 
 ## Demo Video
 
-![Demo Video](assets/video-thumbnail.png)
-*Click the image to watch the demo video.*
-
 [Watch the full demo](https://github.com/Parul1Garg/Fine-Tuned-RAG-Chatbot-/blob/main/Screenshots/Screencast%20from%2004-10-25%2004_45_00%20PM%20IST.webm)
 

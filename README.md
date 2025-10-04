@@ -52,7 +52,7 @@ The chatbot follows a modular **RAG (Retrieval-Augmented Generation)** architect
 
 -----
 
-## 🔹 Model & Embedding Choices
+##  Model & Embedding Choices
 - **Embedding Model**:  
   [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) → Fast, lightweight, and effective for semantic similarity search.  
 - **Vector Database**:  
@@ -62,7 +62,7 @@ The chatbot follows a modular **RAG (Retrieval-Augmented Generation)** architect
 
 -----
 
-## Instructions to run the chatbot with streaming response enabled
+## Instructions to run the Chatbot with streaming response enabled
 
 ### 1. Create & Activate environment 
 - In Anaconda prompt, write - conda activate AI

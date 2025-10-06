@@ -3,5 +3,4 @@ sentence-transformers
 requests
 streamlit
 numpy
-scikit-learn
 pypdf
